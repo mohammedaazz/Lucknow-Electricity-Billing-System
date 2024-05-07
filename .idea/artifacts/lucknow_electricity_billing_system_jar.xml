@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lucknow electricity billing system:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lucknow_electricity_billing_system_jar</output-path>
+    <root id="archive" name="lucknow electricity billing system.jar">
+      <element id="module-output" name="lucknow electricity billing system" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ResultSet2xml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
